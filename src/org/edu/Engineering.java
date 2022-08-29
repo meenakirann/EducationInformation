@@ -5,6 +5,6 @@ public void be() {
 	System.out.println("Bachelor of Engineering Be");
 }
 public void btech() {
-	System.out.println("Bachelor of Technology BTech");
+	System.out.println("Bachelor of Technology BTechhhhh");
 }
 }
